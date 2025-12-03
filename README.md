@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 Always looking to work on scalable ML-based application development<br>🤓 Experienced in Python, C, Django, NodeJS, AWS, Handling Data in Distributed Systems, Agile Methodologies, and Git CI/CD<br>🎒 Pursued MSCS @ NYU, USA<br>💼 SE @ C3.AI, Ex-SDE intern @ Amazon, Ex-Analyst intern @ HTC Global Services <br>⚡ An ever-learning student
+🔭 Always looking to work on scalable ML-based application development<br>🤓 Experienced in Python, C, Django, NodeJS, AWS, Handling Data in Distributed Systems, Agile Methodologies, and Git CI/CD<br>🎒 NYU, USA & VIT, India <br>💼 SWE @ C3.AI, Ex-Amazon, Ex-HTC Global Services <br>⚡ An ever-learning student
 
 
 ## 🌐 Socials:
